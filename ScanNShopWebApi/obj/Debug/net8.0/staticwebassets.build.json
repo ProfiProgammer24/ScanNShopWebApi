@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/AgTVmpS4PU2F6pAZ9nnxuyqK8rlnPFhj7J4ya8u1M0=",
+  "Source": "ScanNShopWebApi",
+  "BasePath": "_content/ScanNShopWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

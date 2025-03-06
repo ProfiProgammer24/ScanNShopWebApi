@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\raguz\\source\\repos\\scannshopwebapi\\scannshopwebapi\\scannshopwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\scannshopwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:09:37.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ScanNShopWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T15:10:25.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwCwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:44:55.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:40:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\User.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:37:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\appsettings.json",
+              "RelativeToolTip": "ScanNShopWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T14:51:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\DataController.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:47:04.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Program.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv1QAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:41:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:05:59.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScanNShopWebApi",
+              "DocumentMoniker": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\ScanNShopWebApi.csproj",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\ScanNShopWebApi.csproj",
+              "ToolTip": "C:\\Users\\raguz\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\ScanNShopWebApi.csproj",
+              "RelativeToolTip": "ScanNShopWebApi\\ScanNShopWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T14:35:01.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
