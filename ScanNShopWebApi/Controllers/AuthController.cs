@@ -8,6 +8,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using ScanNShopWebApi.DTO;
 
 namespace ScanNShopWebApi.Controllers
 {
@@ -27,19 +28,34 @@ namespace ScanNShopWebApi.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] User user)
+        public async Task<IActionResult> Register([FromBody] RegisterUserDto registerDto)
         {
-            if (await _context.Users.AnyAsync(u => u.Email == user.Email))
+            if (await _context.Users.AnyAsync(u => u.Email == registerDto.Email))
             {
                 return BadRequest("E-Mail bereits registriert.");
             }
 
-            user.PasswordHash = _passwordHasher.HashPassword(user, user.PasswordHash);
+            if (string.IsNullOrEmpty(registerDto.Password))
+            {
+                return BadRequest("Passwort ist erforderlich.");
+            }
+
+            // 🛠️ Erstelle den User und hashe das Passwort
+            var user = new User
+            {
+                Username = registerDto.Username,
+                Email = registerDto.Email,
+                PasswordHash = _passwordHasher.HashPassword(null, registerDto.Password)  // ✅ Hier wird das Passwort gehasht
+            };
+
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
 
             return Ok(new { message = "Benutzer erfolgreich registriert!" });
         }
+
+
+
 
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginRequest loginRequest)

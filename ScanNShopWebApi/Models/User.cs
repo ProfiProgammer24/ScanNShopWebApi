@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ScanNShopWebApi.Models
 {
@@ -14,6 +15,10 @@ namespace ScanNShopWebApi.Models
         public string Email { get; set; }
 
         [Required]
-        public string PasswordHash { get; set; }
+        public string? PasswordHash { get; set; }
+
+        [NotMapped] 
+        public string Password { get; set; }
+
     }
 }

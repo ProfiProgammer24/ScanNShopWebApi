@@ -14,17 +14,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/RegisterUserDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/RegisterUserDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/RegisterUserDto"
               }
             }
           }
@@ -151,18 +151,14 @@
         },
         "additionalProperties": false
       },
-      "User": {
+      "RegisterUserDto": {
         "required": [
           "email",
-          "passwordHash",
+          "password",
           "username"
         ],
         "type": "object",
         "properties": {
-          "userId": {
-            "type": "integer",
-            "format": "int32"
-          },
           "username": {
             "minLength": 1,
             "type": "string"
@@ -172,7 +168,7 @@
             "type": "string",
             "format": "email"
           },
-          "passwordHash": {
+          "password": {
             "minLength": 1,
             "type": "string"
           }

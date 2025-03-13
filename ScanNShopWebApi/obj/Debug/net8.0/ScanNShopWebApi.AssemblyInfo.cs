@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScanNShopWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f0e6f8bcc3ed93d0bc1f5b97becc2c78bbbb7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScanNShopWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScanNShopWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
