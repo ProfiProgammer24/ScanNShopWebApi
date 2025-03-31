@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ScanNShopWebApi",
+    "\\ScanNShopWebApi\\Controllers"
   ],
   "SelectedNode": "\\ScanNShopWebApi.sln",
   "PreviewInSolutionExplorer": false

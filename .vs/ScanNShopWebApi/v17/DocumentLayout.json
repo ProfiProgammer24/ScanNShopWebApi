@@ -1,45 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\",
+  "WorkspaceRootPath": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\users\\user\\source\\repos\\scannshopwebapi\\scannshopwebapi\\scannshopwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\models\\relatlistuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\relatlistuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\dto\\listwithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\dto\\listwithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\dto\\createlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\dto\\createlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\dto\\listdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\dto\\listdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\scannshopwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\scannshopwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|c:\\schule\\5ahit\\itp\\scannshopwebapi\\scannshopwebapi\\scannshopwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EDBD6C15-3E9B-4DEA-81AB-09D112EBF239}|ScanNShopWebApi\\ScanNShopWebApi.csproj|solutionrelative:scannshopwebapi\\scannshopwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -50,133 +86,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\User.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\User.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:37:02.877Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\RegisterUserDto.cs",
-              "RelativeDocumentMoniker": "ScanNShopWebApi\\DTO\\RegisterUserDto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\RegisterUserDto.cs",
-              "RelativeToolTip": "ScanNShopWebApi\\DTO\\RegisterUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RelatListUser.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\RelatListUser.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\RelatListUser.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\RelatListUser.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Models\\RelatListUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:38:22.911Z",
+              "WhenOpened": "2025-03-13T13:37:18.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ScanNShopWebApi\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ScanNShopWebApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAuwFcAAABPAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:44:55.927Z",
+              "WhenOpened": "2025-03-13T14:41:19.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\appsettings.json",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\appsettings.json",
+              "RelativeToolTip": "ScanNShopWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T12:50:02.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\Product.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\Product.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:40:41.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\DataController.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAkwO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:47:04.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListDto.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\ListDto.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\DTO\\ListDto.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\ListDto.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\DTO\\ListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:38:05.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ScanNShopWebApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ScanNShopWebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-06T15:10:25.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\LoginRequest.cs",
-              "RelativeToolTip": "ScanNShopWebApi\\Models\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T16:09:37.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ScanNShopWebApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Data\\AppDbContext.cs",
               "RelativeToolTip": "ScanNShopWebApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T14:40:24.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\User.cs",
-              "RelativeToolTip": "ScanNShopWebApi\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:37:02.877Z",
+              "WhenOpened": "2025-03-06T16:09:37.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\DataController.cs",
-              "RelativeDocumentMoniker": "ScanNShopWebApi\\Controllers\\DataController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\DataController.cs",
-              "RelativeToolTip": "ScanNShopWebApi\\Controllers\\DataController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ListWithProductsDto.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\ListWithProductsDto.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\DTO\\ListWithProductsDto.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\ListWithProductsDto.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\DTO\\ListWithProductsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:47:04.611Z"
+              "WhenOpened": "2025-03-27T15:35:33.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CreateListDto.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\CreateListDto.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\DTO\\CreateListDto.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\CreateListDto.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\DTO\\CreateListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:48:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Program.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Program.cs",
               "RelativeDocumentMoniker": "ScanNShopWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Program.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Program.cs",
               "RelativeToolTip": "ScanNShopWebApi\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswFIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T14:41:33.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ScanNShopWebApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ScanNShopWebApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\DTO\\RegisterUserDto.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\RegisterUserDto.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\DTO\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:05:59.082Z"
+              "WhenOpened": "2025-03-09T13:38:22.911Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:44:55.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\List.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Models\\List.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Models\\List.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\Models\\List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:37:38.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\DTO\\UserDto.cs",
+              "RelativeToolTip": "ScanNShopWebApi\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:29:24.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScanNShopWebApi.http",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\ScanNShopWebApi.http",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\ScanNShopWebApi.http",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\ScanNShopWebApi.http",
+              "RelativeToolTip": "ScanNShopWebApi\\ScanNShopWebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-13T12:50:00.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ScanNShopWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ScanNShopWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T15:10:25.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ScanNShopWebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Source\\Repos\\ScanNShopWebApi\\ScanNShopWebApi\\ScanNShopWebApi.csproj",
+              "DocumentMoniker": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\ScanNShopWebApi.csproj",
               "RelativeDocumentMoniker": "ScanNShopWebApi\\ScanNShopWebApi.csproj",
-              "ToolTip": "C:\\Users\\User\\Source\\Repos\\ScanNShopWebApi\\ScanNShopWebApi\\ScanNShopWebApi.csproj",
+              "ToolTip": "C:\\SCHULE\\5AHIT\\ITP\\ScanNShopWebApi\\ScanNShopWebApi\\ScanNShopWebApi.csproj",
               "RelativeToolTip": "ScanNShopWebApi\\ScanNShopWebApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

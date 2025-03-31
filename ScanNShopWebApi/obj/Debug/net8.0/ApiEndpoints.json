@@ -33,6 +33,102 @@
   },
   {
     "ContainingType": "ScanNShopWebApi.Controllers.DataController",
+    "Method": "CreateList",
+    "RelativePath": "api/Data/lists",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listDto",
+        "Type": "ScanNShopWebApi.DTO.CreateListDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScanNShopWebApi.Controllers.DataController",
+    "Method": "DeleteList",
+    "RelativePath": "api/Data/lists/{listId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScanNShopWebApi.Controllers.DataController",
+    "Method": "InsertProducts",
+    "RelativePath": "api/Data/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "products",
+        "Type": "System.Collections.Generic.List\u00601[[ScanNShopWebApi.DTO.ProductDto, ScanNShopWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScanNShopWebApi.Controllers.DataController",
+    "Method": "GetProductsByListIds",
+    "RelativePath": "api/Data/products/by-list-ids",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScanNShopWebApi.Controllers.DataController",
+    "Method": "InsertSingleProduct",
+    "RelativePath": "api/Data/products/single",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ScanNShopWebApi.DTO.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScanNShopWebApi.Controllers.DataController",
+    "Method": "UpdateProducts",
+    "RelativePath": "api/Data/products/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDtos",
+        "Type": "System.Collections.Generic.List\u00601[[ScanNShopWebApi.DTO.ProductDto, ScanNShopWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScanNShopWebApi.Controllers.DataController",
     "Method": "TestDatabase",
     "RelativePath": "api/Data/test-database",
     "HttpMethod": "GET",
@@ -52,24 +148,35 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ScanNShopWebApi.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "ScanNShopWebApi.Controllers.DataController",
+    "Method": "GetListsByUserId",
+    "RelativePath": "api/Data/users/{userId}/lists",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ScanNShopWebApi.WeatherForecast, ScanNShopWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScanNShopWebApi.Controllers.DataController",
+    "Method": "GetUserByUsername",
+    "RelativePath": "api/Data/users/by-username/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

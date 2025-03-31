@@ -40,7 +40,7 @@ namespace ScanNShopWebApi.Controllers
                 return BadRequest("Passwort ist erforderlich.");
             }
 
-            // 🛠️ Erstelle den User und hashe das Passwort
+            // Erstelle den User und hashe das Passwort
             var user = new User
             {
                 Username = registerDto.Username,
